@@ -29,10 +29,9 @@
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
 2. Перейти через терминал в директорию проекта
-3. Выполнить команду:
+3. Выполнить команду
 
 Создаём виртуальное окружение внутри папки проекта.
-Далее команды для MacOS (для windows инуструкция [есть вот тут](https://realpython.com/python-virtual-environments-a-primer/#create-it))
 
 ``` markdown
 python3 -m venv venv
@@ -62,4 +61,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Аршимова Карина
